@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LuvasRH.Lib", "LuvasRH.Lib\LuvasRH.Lib.csproj", "{D5CCD842-22D4-4843-813B-FE66300E8EB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuvasRH", "LuvasRH\LuvasRH.csproj", "{92A1ADA7-F190-43C0-A414-A01844AC1AAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5CCD842-22D4-4843-813B-FE66300E8EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5CCD842-22D4-4843-813B-FE66300E8EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5CCD842-22D4-4843-813B-FE66300E8EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5CCD842-22D4-4843-813B-FE66300E8EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92A1ADA7-F190-43C0-A414-A01844AC1AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A1ADA7-F190-43C0-A414-A01844AC1AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A1ADA7-F190-43C0-A414-A01844AC1AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A1ADA7-F190-43C0-A414-A01844AC1AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26E134D7-E91E-45AF-96B4-621FDB9E0669}
+	EndGlobalSection
+EndGlobal
